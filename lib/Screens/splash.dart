@@ -69,7 +69,7 @@ class _SplashPageState extends State<SplashPage> {
                 style: TextStyles.h1Style.white,
               ),
               Text(
-                "By healthcare Evolution",
+                "BY IIT JAMMU",
                 style: TextStyles.bodySm.white.bold,
               ),
               Expanded(
